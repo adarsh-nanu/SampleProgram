@@ -6,5 +6,8 @@ void getLicense()
 }
 
 void splashScreen()
+{}
+
+void printLog()
 {
 }
