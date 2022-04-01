@@ -4,3 +4,7 @@
 void getLicense()
 {
 }
+
+void splashScreen()
+{
+}
