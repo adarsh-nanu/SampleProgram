@@ -11,3 +11,6 @@ void splashScreen()
 void printLog()
 {
 }
+
+void addedFromGitHubInterface()
+{}
