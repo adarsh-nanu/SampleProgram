@@ -11,3 +11,9 @@ void splashScreen()
 void printLog()
 {
 }
+
+void addedLaterFromClient()
+{
+	this line added from client
+}
+
