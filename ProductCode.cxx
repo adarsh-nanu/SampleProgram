@@ -18,3 +18,6 @@ void addedLaterFromClient()
 		this is to test no fast forward
 }
 
+=======
+void addedFromGitHubInterface()
+{}
