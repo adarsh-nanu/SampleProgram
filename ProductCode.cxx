@@ -20,8 +20,3 @@ void addedLaterFromClient()
 
 void addedFromGitHubInterface()
 {}
-
-void toStash1()
-{
-	--i will be stashed and later brought in
-}
