@@ -18,6 +18,10 @@ void addedLaterFromClient()
 		this is to test no fast forward
 }
 
-=======
 void addedFromGitHubInterface()
 {}
+
+void toStash1()
+{
+	--i will be stashed and later brought in
+}
